@@ -1,4 +1,4 @@
-module christophe-charbonnier/go/errors
+module christophe-charbonnier/go-errors
 
 go 1.21.0
 
